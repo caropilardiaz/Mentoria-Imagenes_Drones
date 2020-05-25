@@ -1,2 +1,2 @@
 # Mentoria  DRONES EN AGRICULTURA
-Mentoría 2020
+Mentoría Diplodatos2020
