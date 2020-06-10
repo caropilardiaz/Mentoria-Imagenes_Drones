@@ -7,7 +7,7 @@ obtener el momento fenológico (desarrollo) de diferentes genotipos para lograr 
 de este proyecto es que el estudiante a lo largo de las materias de la diplomatura identifique y aplique diferentes técnicas de 
 análisis/procesamiento de los datos que generen información relevantes para el manejo sustentable del cultivo.
 
-Objetivos generales para cada materia:
+# Objetivos generales para cada materia:
 Análisis y Visualización
 Visualizacion de funciones de densidad de probabilidad de diferentes variables.
 
@@ -18,7 +18,7 @@ Diagramas de caja para deteccion de Outliers.
 Introduccion a la visualizacion en mapas.
 Visualizacion basica y grafos.
 
-Análisis y Curación
+# Análisis y Curación
 El formato del dataset nos permite aplicar los siguientes conceptos:
 
 Carga de datos: Codificaciones, Caracteres Especiales, formatos.
@@ -32,7 +32,7 @@ Codificacion de variables ordinales y categoricas.
 Imputacion de valores invalidos y outliers.
 
 
-Introducción al ML
+# Introducción al ML
 
 Métodos de selección de variables univariados, multivariados e intrínsecos a un modelo.
 
@@ -40,9 +40,7 @@ Partición de datos para Training, Test y Validation. Cross Validation.
 
 Evaluación de modelos
 
-
-
-Aprendizaje Supervisado
+# Aprendizaje Supervisado
 Aplicación de diversas técnicas de ML sobre el dataset generado.
 
 Métodos de selección de variables y reducción de dimensionalidad.
@@ -53,7 +51,7 @@ Metodos de ajuste de hyperparameters GridSearch, Random, Bayesiana
 
 Interpretabilidad de los modelos.
 
-Aprendizaje No Supervisado
+# Aprendizaje No Supervisado
 Métodos de clusterización de datos para reduccion de variables.
 
 Implementacion de regresor basado en KNN
