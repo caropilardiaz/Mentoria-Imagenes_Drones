@@ -1,3 +1,9 @@
+
+LINK DE PRÁCTICOS APROBADOS
+AYV
+https://github.com/Enzo95/DronesEnAgriculturaG1.git
+
+
 # Mentoria-Imagenes_Drones
 # Detección del desarrollo del cultivo con imágenes de Drones
 # Mentoria: Diplomatura Ciencias de Datos, FAMAF, 2020
