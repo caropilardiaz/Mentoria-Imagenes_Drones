@@ -2,6 +2,7 @@
 LINK DE PRÁCTICOS APROBADOS
 AYV
 https://github.com/Enzo95/DronesEnAgriculturaG1.git
+DevG2_PracticoAyV.ipynb
 
 
 # Mentoria-Imagenes_Drones
