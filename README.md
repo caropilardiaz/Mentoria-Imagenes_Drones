@@ -1,10 +1,15 @@
+PRÁCTICOS APROBADOS
 
-LINK DE PRÁCTICOS APROBADOS
-AYV
+
+Grupo1:AYV
 https://github.com/Enzo95/DronesEnAgriculturaG1.git
 
 
-# Mentoria-Imagenes_Drones
+
+Grupo2:AyV/AyC
+https://github.com/luciozarazaga/Mentoria_Imagenes_Drones_Grupo_2.git
+
+
 # Detección del desarrollo del cultivo con imágenes de Drones
 # Mentoria: Diplomatura Ciencias de Datos, FAMAF, 2020
 La utilización de Drones en la Agricultura otorga grandes posibilidades de aplicación de buenas prácticas agrícolas (BPA).La obtención de 
