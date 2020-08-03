@@ -1,12 +1,16 @@
 PRÁCTICOS APROBADOS
 
 
-Grupo1:AYV
+Grupo1:
+AYV
+AYC
 https://github.com/Enzo95/DronesEnAgriculturaG1.git
 
 
 
-Grupo2:AyV/AyC
+Grupo2:
+AyV
+AyC
 https://github.com/luciozarazaga/Mentoria_Imagenes_Drones_Grupo_2.git
 
 
